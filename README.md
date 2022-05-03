@@ -29,7 +29,7 @@ You will be using this data to create machine learning models to classify the ri
 # Printing out the Classification Report
 <img width="569" alt="7" src="https://user-images.githubusercontent.com/84547558/166559732-f46efe20-85d0-4e47-84a7-849b19497e6b.png">
 
-# Visualize the Confusion Matrix for the Logistic Regression Model
+# Visualizing the Confusion Matrix for the Logistic Regression Model
 <img width="597" alt="8" src="https://user-images.githubusercontent.com/84547558/166560101-f1ad17bd-ecf4-408b-b0f7-141e40fad27f.png">
 <img width="566" alt="9" src="https://user-images.githubusercontent.com/84547558/166560263-62399c06-5830-437b-92c7-3e834471d884.png">
 
