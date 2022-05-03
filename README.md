@@ -9,13 +9,13 @@ LendingClub is a peer-to-peer lending services company that allows individual in
 You will be using this data to create machine learning models to classify the risk level of given loans. Specifically, you will be comparing the Logistic Regression model and Random Forest Classifier.
 
 # Steps and Results
-# Loading data source
+#  Loading data source
 <img width="522" alt="g" src="https://user-images.githubusercontent.com/84547558/166557736-c985190d-0ecf-4b48-9128-789df00de8ae.png">
 
-# Convert categorical data to numeric and separate target feature for training and testing data
+#  Convert categorical data to numeric and separate target feature for training and testing data
 <img width="468" alt="2" src="https://user-images.githubusercontent.com/84547558/166558546-fa3fac9d-7c0e-4362-9534-ef6661684924.png">
 
-# Using LabelEncoder to convert output labels to binary (0 and 1)
+#  Using LabelEncoder to convert output labels to binary (0 and 1)
 <img width="619" alt="3" src="https://user-images.githubusercontent.com/84547558/166558764-184b817e-bbaa-46da-8769-85ebff81086e.png">
 
 # Create Logistic Regression Model for the unscaled data
