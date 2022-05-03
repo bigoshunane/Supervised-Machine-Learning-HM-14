@@ -10,5 +10,4 @@ You will be using this data to create machine learning models to classify the ri
 
 # Steps
 # Loading data source
-train_df = pd.read_csv(Path('Resources/2019loans.csv'))
-test_df = pd.read_csv(Path('Resources/2020Q1loans.csv'))
+<img width="522" alt="g" src="https://user-images.githubusercontent.com/84547558/166557736-c985190d-0ecf-4b48-9128-789df00de8ae.png">
