@@ -9,27 +9,27 @@ LendingClub is a peer-to-peer lending services company that allows individual in
 You will be using this data to create machine learning models to classify the risk level of given loans. Specifically, you will be comparing the Logistic Regression model and Random Forest Classifier.
 
 # Steps and Results
-#  Loading data source
+# 1. Loading data source
 <img width="522" alt="g" src="https://user-images.githubusercontent.com/84547558/166557736-c985190d-0ecf-4b48-9128-789df00de8ae.png">
 
-#  Convert categorical data to numeric and separate target feature for training and testing data
+# 2. Convert categorical data to numeric and separate target feature for training and testing data
 <img width="468" alt="2" src="https://user-images.githubusercontent.com/84547558/166558546-fa3fac9d-7c0e-4362-9534-ef6661684924.png">
 
-#  Using LabelEncoder to convert output labels to binary (0 and 1)
+# 3. Using LabelEncoder to convert output labels to binary (0 and 1)
 <img width="619" alt="3" src="https://user-images.githubusercontent.com/84547558/166558764-184b817e-bbaa-46da-8769-85ebff81086e.png">
 
-# Create Logistic Regression Model for the unscaled data
+# 4. Create Logistic Regression Model for the unscaled data
 
 <img width="681" alt="5" src="https://user-images.githubusercontent.com/84547558/166559227-4996e653-dd3f-4e11-b5ea-4d1a3d5147fb.png">
 
 
-# Create Confusion Matrix for the Logistic Regression Model for the unscaled data
+# 4.1 Create Confusion Matrix for the Logistic Regression Model for the unscaled data
 <img width="628" alt="6" src="https://user-images.githubusercontent.com/84547558/166559438-58d09034-6c8d-4b70-864d-80b210d02610.png">
 
-# Printing out the Classification Report
+# 4.2 Printing out the Classification Report
 <img width="569" alt="7" src="https://user-images.githubusercontent.com/84547558/166559732-f46efe20-85d0-4e47-84a7-849b19497e6b.png">
 
-# Visualizing the Confusion Matrix for the Logistic Regression Model
+# 4.3 Visualizing the Confusion Matrix for the Logistic Regression Model
 <img width="597" alt="8" src="https://user-images.githubusercontent.com/84547558/166560101-f1ad17bd-ecf4-408b-b0f7-141e40fad27f.png">
 <img width="566" alt="9" src="https://user-images.githubusercontent.com/84547558/166560263-62399c06-5830-437b-92c7-3e834471d884.png">
 
