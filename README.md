@@ -30,23 +30,25 @@ You will be using this data to create machine learning models to classify the ri
 <img width="569" alt="7" src="https://user-images.githubusercontent.com/84547558/166559732-f46efe20-85d0-4e47-84a7-849b19497e6b.png">
 
 # 4.3 Visualizing the Confusion Matrix for the Logistic Regression Model
-<img width="597" alt="8" src="https://user-images.githubusercontent.com/84547558/166560101-f1ad17bd-ecf4-408b-b0f7-141e40fad27f.png">
-<img width="566" alt="9" src="https://user-images.githubusercontent.com/84547558/166560263-62399c06-5830-437b-92c7-3e834471d884.png">
+![un](https://user-images.githubusercontent.com/84547558/166612299-bf769d12-6265-4950-bef9-18016d9364e5.png)
 
 # Repeat same steps as above for the scaled data
 <img width="560" alt="a" src="https://user-images.githubusercontent.com/84547558/166560756-aa2ca466-1a55-4223-b162-519dd6c45a02.png">
 
-# Training and Testing Score for scaled data (Logistic Regression Model)
+# 5. Training and Testing Score for scaled data (Logistic Regression Model)
 <img width="499" alt="b" src="https://user-images.githubusercontent.com/84547558/166561065-751c358f-6a52-4a3f-9c13-552cd4a20da1.png">
 
-# Classification Report for scaled data (Logistic Regression Model)
+# 5.1 Classification Report for scaled data (Logistic Regression Model)
 <img width="570" alt="c" src="https://user-images.githubusercontent.com/84547558/166561285-eedb9a3c-ebc9-439f-a451-6850fd4a839e.png">
 
-# Confusion Matrix heatmap for scaled data (Logistic Regression Model)
-<img width="467" alt="d" src="https://user-images.githubusercontent.com/84547558/166561440-7f37b6bc-0c25-40dd-ba08-7efd540319b3.png">
+# 5.2 Confusion Matrix heatmap for scaled data (Logistic Regression Model)
+![scld](https://user-images.githubusercontent.com/84547558/166612429-1fb43b99-6519-40a9-90e9-582bcb0d0b84.png)
 
-# Create Random Forest Classifier for the unscaled data
+# 6. Train a Random Forest Classifier model
+# 6.1 Create Random Forest Classifier for the unscaled data
 <img width="808" alt="f" src="https://user-images.githubusercontent.com/84547558/166561750-818dde8b-7db9-497d-b480-3733376e261f.png">
+# 6.2 Create Random Forest Classifier for the scaled data
+
 
 # Conclusion
 
