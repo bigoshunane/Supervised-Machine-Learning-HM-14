@@ -64,7 +64,7 @@ You will be using this data to create machine learning models to classify the ri
 # 6.2 Create Random Forest Classifier for the scaled data
 
 ![g](https://user-images.githubusercontent.com/84547558/166612863-4c262666-78b2-4246-b9e3-f366201a9bae.png)
-# Conclusion
+# 7. Conclusion
 
 # Random Forest Classifier
 For unscaled data, the scores for the Random Forest Classifier Model:
