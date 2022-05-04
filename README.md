@@ -2,7 +2,7 @@
 The aim of this project is building a machine learning model that attempts to predict whether a loan from LendingClub will become high risk or not.
 
 # Data Source
-LendingClub (2019-2020) Loan Stats. Retrieved from: [https://resources.lendingclub.com]
+LendingClub (2019-2020) Loan Stats retrieved from: [https://resources.lendingclub.com]
 
 # Background
 LendingClub is a peer-to-peer lending services company that allows individual investors to partially fund personal loans as well as buy and sell notes backing the loans on a secondary market. LendingClub offers their previous data through an API.
@@ -54,12 +54,12 @@ You will be using this data to create machine learning models to classify the ri
 For unscaled data, the scores for the Random Forest Classifier Model:
 
       . Training Score: 1.0
-      . Testing Score: 0.6180348787749894
+      . Testing Score:  0.6180348787749894
       
 For scaled data, the scores for the Random Forest Classifier Model:
 
      . Training Score: 1.0
-     . Testing Score: 0.6193109315185028
+     . Testing Score:  0.6193109315185028
 
 From the scores above, the Random Forest Classifier won't be very efficient in predicting the Credit Risks. The differences between the scores on the scaled and unscaled data are almost identical (The difference is negligible).
 
@@ -67,12 +67,12 @@ From the scores above, the Random Forest Classifier won't be very efficient in p
 For the unscaled data, the scores for the Logistic Regression:
 
     . Training Data Score: 0.6485221674876848
-    . Testing Data Score: 0.5253083794130158
+    . Testing Data Score:  0.5253083794130158
 For the scaled data, the scores for the Logistic Regression:
 
     . Training Data Score: 0.713136288998358
-    . Testing Data Score: 0.7201190982560612
-From the scores above, the best model to predict the Credit Risk is the Logistic Regression on the scaled data. The training scores and testing scores are much more closer than the unscaled data, hence allowing us to make a more accurate prediction.
+    . Testing Data Score:  0.7201190982560612
+From the scores above, the best model to predict the Credit Risk is the Logistic Regression on the scaled data. The training scores and testing scores are much more closer than the unscaled data, hence giving more confidence to make a more accurate prediction.
 
 Therefore, in conclusion, Logistic Regression will be a better model to use.
 
