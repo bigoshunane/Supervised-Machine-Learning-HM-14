@@ -66,7 +66,7 @@ You will be using this data to create machine learning models to classify the ri
 ![g](https://user-images.githubusercontent.com/84547558/166612863-4c262666-78b2-4246-b9e3-f366201a9bae.png)
 # 7. Conclusion
 
-# Random Forest Classifier
+# 7.1 Random Forest Classifier
 For unscaled data, the scores for the Random Forest Classifier Model:
 
       . Training Score: 1.0
@@ -79,7 +79,7 @@ For scaled data, the scores for the Random Forest Classifier Model:
 
 From the scores above, the Random Forest Classifier won't be very efficient in predicting the Credit Risks. The differences between the scores on the scaled and unscaled data are almost identical; hence, the difference is negligible.
  
-# Logistic Regression Model
+# 7.2 Logistic Regression Model
 For the unscaled data, the scores for the Logistic Regression:
 
     . Training Data Score: 0.6485221674876848
