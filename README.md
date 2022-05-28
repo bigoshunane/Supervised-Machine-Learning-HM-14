@@ -69,13 +69,13 @@ You will be using this data to create machine learning models to classify the ri
 ### 7.1 Random Forest Classifier
 For unscaled data, the scores for the Random Forest Classifier Model:
 
-      . Training Score: 1.0
-      . Testing Score:  0.6180348787749894
+   - Training Score: 1.0
+   - Testing Score:  0.6180348787749894
       
 For scaled data, the scores for the Random Forest Classifier Model:
 
-     . Training Score: 1.0
-     . Testing Score:  0.6193109315185028
+   - Training Score: 1.0
+   - Testing Score:  0.6193109315185028
 
 From the scores above, the Random Forest Classifier won't be very efficient in predicting the Credit Risks. The differences between the scores on the scaled and unscaled data are almost identical; hence, the difference is negligible.
  
