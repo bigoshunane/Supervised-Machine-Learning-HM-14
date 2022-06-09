@@ -92,7 +92,6 @@ For the scaled data, the scores for the Logistic Regression:
     . Testing Data Score:  0.7201190982560612
     
 From the scores above, the best model to predict the Credit Risk is the Logistic Regression on the scaled data. The training scores and testing scores are much more closer than the unscaled data; hence, giving more confidence to make a more accurate prediction.
-
 Therefore, in conclusion, Logistic Regression will be a better model to use.
 
 © 2021 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
